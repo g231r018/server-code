@@ -1,5 +1,7 @@
 # server-code
 
+サーバプログラムできました．   (2019.10.08)
+
 <私のgitアカウント>
 URL:https://github.com/g231r018/server-code
 
