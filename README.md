@@ -1,10 +1,9 @@
 # server-code
 
-<<<<<<< HEAD
-=======
+
 サーバプログラムできました．   (2019.10.08)
 
->>>>>>> origin/master
+
 <私のgitアカウント>
 URL:https://github.com/g231r018/server-code
 
